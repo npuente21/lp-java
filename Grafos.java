@@ -1,4 +1,4 @@
-package Java;
+import java.util.*;
 interface Grafo{
   int edgeWeight(int a, int b);
   int shortestPath(int a, int b);
